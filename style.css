@@ -1,0 +1,44 @@
+.btn-success{
+    border-radius: 50px;
+    padding: 10px 30px;
+}
+.toptitle{
+    color: red;
+}
+.bottomtitle{
+    font-weight: bolder;
+}
+.highlight-text{
+    color: green;
+}
+.navigation , .poster{
+    background-color: #F0FFF0;
+
+}
+.postcard{
+    width: 270px;
+    height: 270px;
+}
+.card-text{
+    color: indigo;
+}
+.stats , .course, .poster, .testimonial{
+    margin-bottom: 100px;
+}
+.course-heading{
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+    color: indigo;
+}
+.testimonial h1{
+    text-align: center;
+    font-weight: bold;
+}
+.footer{
+    background-color: #282531;
+    height: 200px;
+}
+.footer-text{
+    color: white;
+}
